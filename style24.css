@@ -1,0 +1,38 @@
+.para1
+
+{
+    font-weight: bold ;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.para2
+{
+    font-family: italic;
+    font-size: 18px;
+    font-family: Verdana;
+    font-weight: 400;
+}
+
+
+.para3
+{
+
+font-family: 'Courier New', Courier, monospace;
+font-size: 12px;
+background-color: cadetblue;
+color:  white;
+
+}
+
+
+.para4
+{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    text-decoration:underline ;
+    text-align: right;
+}
