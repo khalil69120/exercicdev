@@ -1,0 +1,50 @@
+#blocbleue {
+    background-color: blue;
+    width: 800px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;   
+}
+
+#blocrose {
+    background-color: rosybrown;
+    width: 550px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+
+#blocvert {
+    background-color: green;
+    width: 550px;
+    height: 200px;
+}
+#blocjaune {
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+}
+
+#blocjaune2 {
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+}
+
+#blocrouge {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+}
+
+#blocrouge2 {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+}

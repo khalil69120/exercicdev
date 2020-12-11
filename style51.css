@@ -1,0 +1,64 @@
+#bleu {
+    background-color: blue;
+    width: 600px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#blanche {
+    
+    background: white;
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+#transparent1 {
+    /*border: black 1px solid;*/
+    width: 500px;
+    height: 100px;
+    display: flex;  
+
+}
+
+#transparents2 {
+    /*border: black 1px solid;*/
+    width: 500px;
+    height: 100px;
+    display: flex;
+}
+
+.rouge{
+background-color: red;
+width: 100px;
+height: 30px;
+}
+
+.jaune{
+    background-color: yellow;
+    width: 200px;
+    height: 60px;
+    }
+
+.vert{
+    background-color: green;
+    width: 200px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+        }
+
+.rose{
+    background-color: pink;
+    width: 100px;
+    height: 30px;
+}
